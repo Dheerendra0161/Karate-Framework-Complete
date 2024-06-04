@@ -1,0 +1,5 @@
+[
+  { "name": "Dheeru", "age": 30, "isManager": true },
+  { "name": "Vikas", "age": 25, "isManager": false },
+  { "name": "prasad", "age": 35, "isManager": true }
+]
